@@ -43,9 +43,6 @@ export default {
       },{
           label: '写代码',
           done: false,
-      },{
-          label: '睡觉',
-          done: false,
       }]
   }
 }
