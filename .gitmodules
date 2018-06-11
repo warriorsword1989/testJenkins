@@ -1,0 +1,3 @@
+[submodule "submodule/reviewJS"]
+	path = submodule/reviewJS
+	url = https://github.com/warriorsword1989/reviewJS.git
