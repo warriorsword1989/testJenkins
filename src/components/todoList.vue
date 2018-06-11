@@ -40,9 +40,6 @@ export default {
       this.todoList = [{
           label: '踢足球',
           done: false
-      },{
-          label: '踢足球11',
-          done: false
       }]
   }
 }
