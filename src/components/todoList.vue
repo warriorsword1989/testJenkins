@@ -43,6 +43,9 @@ export default {
       },{
           label: '吃鸡',
           done: false
+      },{
+          label: '敲代码',
+          done: false
       }]
   }
 }
