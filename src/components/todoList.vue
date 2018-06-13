@@ -38,7 +38,7 @@ export default {
   },
   mounted() {
       this.todoList = [{
-          label: '踢足球',
+          label: '足球',
           done: false
       },{
           label: '吃鸡',
