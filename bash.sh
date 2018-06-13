@@ -1,4 +1,8 @@
-rm -rf dist
+node -v
+npm -v
+echo '安装依赖'
+npm install
+
 npm run build
 echo '打包完成'
 cd dist
