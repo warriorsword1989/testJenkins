@@ -1,3 +1,4 @@
+rm -rf dist
 npm run build
 echo '打包完成'
 cd dist
