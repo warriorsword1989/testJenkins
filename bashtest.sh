@@ -1,6 +1,5 @@
 node -v
 npm -v
-rm -rf dist
 echo '安装依赖'
 npm install
 
