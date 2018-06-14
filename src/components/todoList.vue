@@ -41,7 +41,7 @@ export default {
           label: '踢足球',
           done: false
       },{
-          label: '吃鸡1',
+          label: '吃鸡12',
           done: false
       },{
           label: '敲代码',
